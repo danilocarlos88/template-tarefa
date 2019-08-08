@@ -1,0 +1,22 @@
+[  
+   {  
+      "id_banner":"2",
+      "titulo":"Cronos",
+      "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/banners\/banner_5d4b72a7535de.jpg",
+      "arquivo_mobile":"\/template-tarefa\/lua4auto\/public\/uploads\/banners\/banner_5d4b72a75b081.jpg",
+      "url":null,
+      "data_inicial":null,
+      "data_final":null,
+      "ordem":"9999"
+   },
+   {  
+      "id_banner":"1",
+      "titulo":"Lua4 Mega Carros",
+      "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/banners\/banner_5d4b711cba8d0.jpg",
+      "arquivo_mobile":"\/template-tarefa\/lua4auto\/public\/uploads\/banners\/banner_5d4b711cbe972.jpg",
+      "url":"https:\/\/lua4.com\/",
+      "data_inicial":null,
+      "data_final":null,
+      "ordem":"9999"
+   }
+]

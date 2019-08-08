@@ -1,0 +1,409 @@
+.section-title {
+  margin: 30px 0 0;
+  text-transform: uppercase;
+  color: $main-color;
+}
+
+.section-title--busca-seminovo {
+  @media screen and (max-width: em(1220px)) {
+    display: none;
+  }
+}
+
+/*------------------------------------*
+ * #BxSlider */
+/*------------------------------------ */
+
+.bx-wrapper {
+  margin: 0 auto;
+  width: 1440px;
+
+  .bx-viewport {
+    left: 0;
+    border: none;
+    box-shadow: none;
+  }
+}
+
+// Main Slider
+
+@media screen and (max-width: $tablet) {
+  .main-slider-wrapper {
+    padding: 0 10px;
+
+    .bx-viewport {
+      border-radius: 4px;
+    }
+  }
+}
+
+// Car Slider
+
+.car-slider {
+  .bx-viewport {
+    border-top: 3px solid black;
+    border-radius: 4px;
+  }
+}
+
+.car-details__pics {
+  .bx-pager {
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 0;
+
+    a {
+      width: 109.6px;
+      margin-right: 10px;
+      margin-bottom: 10px;
+      float: left;
+
+      &:nth-child(5n) {
+        margin-right: 0;
+      }
+
+      img {
+        max-width: 100%;
+        border-radius: 4px;
+      }
+
+      @media screen and (max-width: em(1220px)) {
+        float: none;
+        display: inline-block;
+        margin: 0 5px 10px;
+
+        &:nth-child(5n) {
+          margin-right: 5px;
+        }
+      }
+    }
+  }
+}
+
+.slick-next {
+  background: url('../img/vendor/slick/controls.png') 0 -40px no-repeat;
+  width: 30px;
+  height: 40px;
+  right: 0;
+  z-index: 3;
+
+  &:hover,
+  &:focus {
+    background: url('../img/vendor/slick/controls.png') -30px -40px no-repeat;
+  }
+
+  &:before {
+    content: "";
+  }
+}
+
+.slick-prev {
+  background: url('../img/vendor/slick/controls.png') 0 0 no-repeat;
+  width: 30px;
+  height: 40px;
+  left: 0;
+  z-index: 3;
+
+  &:hover,
+  &:focus {
+    background: url('../img/vendor/slick/controls.png') -30px 0 no-repeat;
+  }
+
+  &:before {
+    content: "";
+  }
+}
+
+// Testimonials Slider
+
+.testimonials-slider {
+  .bx-viewport {
+    background: transparent;
+  }
+
+  .bx-pager {
+    bottom: -40px;
+  }
+
+  .bx-wrapper .bx-prev,
+  .bx-wrapper .bx-next {
+    background-image: url("../img/icons-sprite.png");
+  }
+
+  .bx-wrapper .bx-prev {
+    left: -200px;
+    background-position: 0 -309px;
+
+    &:hover {
+      background-position: 0 -309px;
+    }
+  }
+
+  .bx-wrapper .bx-next {
+    right: -200px;
+    background-position: (-35px) -309px;
+
+    &:hover {
+      background-position: (-35px) -309px;
+    }
+  }
+
+  .bx-wrapper .bx-controls-direction a {
+    width: 35px;
+    height: 35px;
+    margin-top: -17px;
+  }
+
+  @media screen and (max-width: em(1200px)) {
+    .bx-wrapper .bx-prev {
+      left: -50px;
+    }
+
+    .bx-wrapper .bx-next {
+      right: -50px;
+    }
+  }
+
+  @media screen and (max-width: em(940px)) {
+    .bx-wrapper .bx-controls-direction {
+      display: none;
+    }
+  }
+
+  @media screen and (max-width: $tablet) {
+    .bx-controls {
+      display: none;
+    }
+  }
+}
+
+/* DIRECTION CONTROLS (NEXT / PREV) */
+
+.bx-wrapper .bx-prev {
+  left: 0;
+  background: url(../img/controls.png) no-repeat 0 0;
+}
+
+.bx-wrapper .bx-next {
+  right: 0;
+  background: url(../img/controls.png) no-repeat 0 -40px;
+}
+
+.bx-wrapper .bx-prev:hover {
+  background-position: (-30px) 0;
+}
+
+.bx-wrapper .bx-next:hover {
+  background-position: (-30px) -40px;
+}
+
+.bx-wrapper .bx-controls-direction a {
+  position: absolute;
+  top: 50%;
+  margin-top: -20px;
+  outline: 0;
+  width: 30px;
+  height: 40px;
+  text-indent: -9999px;
+  z-index: 8;
+}
+
+/*------------------------------------*
+ * #Remodal */
+/*------------------------------------ */
+
+.remodal {
+  padding: 0;
+}
+
+.remodal-overlay {
+  background: rgba($main-color, 0.8);
+}
+
+@media screen and (max-width: em(660px)) {
+  .remodal-wrapper {
+    margin: 0 10px;
+  }
+
+  .remodal {
+    min-height: initial;
+  }
+}
+
+/*------------------------------------*
+ * #Slicknav */
+/*------------------------------------ */
+
+.slicknav_menu {
+  display: none;
+}
+
+@media screen and (max-width: em(1000px)) {
+  .slicknav_menu {
+    display: block;
+  }
+
+  .header {
+    display: none;
+  }
+}
+
+.slicknav_menu {
+  position: relative;
+  min-height: 60px;
+  padding: 60px 0 0;
+  background: #ededed;
+
+  .slicknav_icon-bar {
+    background-color: black;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+}
+
+.slicknav_btn {
+  background: transparent;
+}
+
+.slicknav_menu .slicknav_icon {
+  position: relative;
+
+  .slicknav_icon-bar {
+    cursor: pointer;
+    border-radius: 1px;
+    height: 5px;
+    width: 35px;
+    background: black;
+    position: absolute;
+    display: block;
+    content: "";
+
+    &:first-child {
+      top: -10px;
+    }
+
+    &:last-child {
+      bottom: -10px;
+    }
+  }
+}
+
+// Styles for slicknav animated icon
+
+.slicknav_btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 30px;
+  height: 22px;
+
+  span,
+  span:before,
+  span:after {
+    cursor: pointer;
+    border-radius: 5px;
+    height: 4px;
+    width: 30px;
+    background: black;
+    position: absolute;
+    display: block;
+    content: "";
+
+    @include transition(all 300ms ease-in-out);
+  }
+
+  span {
+    top: 10px;
+  }
+
+  span:before {
+    top: -8px;
+  }
+
+  span:after {
+    bottom: -8px;
+  }
+
+  &.slicknav_open {
+    span {
+      background-color: transparent;
+
+      &:before,
+      &:after {
+        top: 0;
+      }
+
+      &:before {
+        @include transform(rotate(45deg));
+      }
+
+      &:after {
+        @include transform(translateY(-8px) rotate(-45deg));
+
+        top: 8px;
+      }
+    }
+  }
+}
+
+.slicknav_nav {
+  padding: 12px 0;
+  background: $main-color;
+  border-bottom: 3px solid white;
+
+  li {
+    margin: 5px 0;
+  }
+
+  a {
+    color: white;
+    font-weight: $medium;
+    text-transform: uppercase;
+    text-align: center;
+
+    &:hover {
+      background: none;
+    }
+  }
+}
+
+/*------------------------------------*
+ * #Sweetalert */
+/*------------------------------------ */
+
+.sweet-alert h2 {
+  color: #333;
+  font-family: $primary-font;
+  font-size: 18px;
+  margin: 0;
+}
+
+.sweet-alert button {
+  padding: 5px 32px;
+  margin-top: 12px;
+  color: #fff;
+  font-family: $primary-font;
+}
+
+/*------------------------------------*
+ * #RRSSB */
+/*------------------------------------ */
+
+.rrssb-buttons.large-format li a,
+.rrssb-buttons.large-format li a:hover {
+  font-size: 14px!important;
+}
+
+.rrssb-text {
+  font-size: 13px!important;
+}
+
+.rrssb-whatsapp {
+  display: none;
+
+  @media screen and (max-width: em(768px)) {
+    display: block;
+  }
+}

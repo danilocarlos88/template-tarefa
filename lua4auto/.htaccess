@@ -1,0 +1,48 @@
+# Necessary to prevent problems when using a controller named "index" and having a root index.php
+# more here: http://httpd.apache.org/docs/2.2/content-negotiation.html
+Options -MultiViews
+
+# Activates URL rewriting (like myproject.com/controller/action/1/2/3)
+RewriteEngine On
+
+# Disallows others to look directly into /public/ folder
+#Options -Indexes
+
+# When using the script within a sub-folder, put this path here, like /mysubfolder/
+# If your app is in the root of your web folder, then leave it commented out
+#RewriteBase /lua4auto_junto/
+#RewriteBase /git/multimarcas-start-automoveis/lua4auto/
+#RewriteBase /WWW/GIT/start-automoveis/lua4auto/
+#RewriteBase /lua4/start-automoveis/lua4auto/
+#RewriteBase /lua4/lua4multimarcas/start-automoveis/lua4auto/
+#RewriteBase /WWW/start-automoveis/lua4auto/
+#RewriteBase /WWW/lua4auto/
+
+RewriteCond %{HTTP_HOST} !=localhost
+RewriteCond %{HTTP_HOST} !=127.0.0.1
+RewriteCond %{REMOTE_ADDR} !=127.0.0.1
+RewriteCond %{REMOTE_ADDR} !=::1
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule .? http://www.%{HTTP_HOST}/%{REQUEST_URI} [R=301,L]
+
+# General rewrite rules
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-l
+
+
+# http://domain.com/lua4auto/public/css/arquivo.css
+# http://domain.com/lua4auto/lua4auto/public/css/arquivo.css
+
+# Caso esteja em teste em /lua4autos/ redireciona para pasta /lua4auto/
+RewriteRule ^lua4autos/public/uploads/(.+)$ /lua4auto/public/uploads/$1 [QSA,L]
+RewriteRule ^lua4autos/public/(.+)$ /lua4auto/lua4auto/public/$1 [QSA,L]
+
+
+RewriteRule ^public/uploads/(.+)$ public/uploads/$1 [QSA,L]
+RewriteRule ^public/(.+)$ lua4auto/public/$1 [QSA,L]
+
+#RewriteRule ^lua4auto(/*)$ lua4auto/index.php [QSA]
+RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
+
+#RewriteRule ^public/(.+)$ 404.php [L]

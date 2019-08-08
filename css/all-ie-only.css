@@ -1,0 +1,20 @@
+.styled-select:before {
+    display: block;
+    position: absolute;
+    content: "";
+    right: 0px;
+    top: 0px;
+    height: 100%;
+    width: 30px;
+    background: white;
+}
+
+.hero .container {
+    left: 50px;
+    right: auto;
+}
+
+.send-proposal input[type="text"],
+.send-proposal textarea {
+    padding: 0 10px;
+}

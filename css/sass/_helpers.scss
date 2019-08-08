@@ -1,0 +1,48 @@
+.primary-link {
+  color: red;
+
+  @include transition(color 0.3s);
+
+  &:hover {
+    color: black;
+  }
+}
+
+.list-default {
+  padding-left: 17px;
+  list-style: disc;
+  color: #666;
+
+  li {
+    font-size: 14px;
+    line-height: 24px;
+  }
+}
+
+.cfx {
+  @include clearfix;
+}
+
+.t-center {
+  text-align: center;
+}
+
+.red {
+  color: $main-color;
+}
+
+.img {
+  max-width: 100%;
+}
+
+// Omega Reset
+
+@mixin omega-reset($nth) {
+  &:nth-child(#{$nth}) {
+    margin-right: flex-gutter($grid-columns, $gutter);
+  }
+
+  &:nth-child(#{$nth}+1) {
+    clear: none;
+  }
+}

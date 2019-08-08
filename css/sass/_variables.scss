@@ -1,0 +1,22 @@
+/*------------------------------------*
+ * #MEDIA QUERIES */
+/*------------------------------------ */
+
+$container: $max-width;
+$wide-tablet: em(1024px);
+$tablet: em(768px);
+$wide-phone: em(480px);
+$phone: em(320px);
+
+/*------------------------------------*
+ * #FONT STACK */
+/*------------------------------------ */
+
+$primary-font: "Ubuntu", sans-serif;
+
+// Font weights
+
+$light: 300;
+$normal: 400;
+$medium: 500;
+$bold: 700;

@@ -1,0 +1,1 @@
+<img src="<?= $this->root_rel ?>img/estoque.jpg">

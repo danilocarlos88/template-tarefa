@@ -1,0 +1,1305 @@
+{  
+   "carros":[  
+      {  
+         "marca":"FIAT",
+         "modelo":"Strada Working HARD",
+         "tipo":"Carro",
+         "cor":"Branco",
+         "cambio":"Manual",
+         "combustivel":"Flex",
+         "id_veiculo":"4",
+         "video_url":null,
+         "ano_fabricacao":"2019",
+         "ano_modelo":"2019",
+         "versao":"1.4 Fire Flex 8V Cd",
+         "portas":"2",
+         "placa":"",
+         "quilometragem":null,
+         "potencia":null,
+         "preco_site":"67890",
+         "preco_site_promocao":"0",
+         "preco_classificados":"67890",
+         "blindado":"0",
+         "zero_km":"1",
+         "vendido":"0",
+         "status":"1",
+         "observacao":"",
+         "itens":[  
+            {  
+               "id_item":"59",
+               "descricao":"Air bag Motorista"
+            },
+            {  
+               "id_item":"61",
+               "descricao":"Air bag passageiro"
+            },
+            {  
+               "id_item":"4",
+               "descricao":"Ar quente"
+            },
+            {  
+               "id_item":"3",
+               "descricao":"Ar condicionado"
+            },
+            {  
+               "id_item":"64",
+               "descricao":"Freios ABS"
+            },
+            {  
+               "id_item":"25",
+               "descricao":"Protetor de ca\u00e7amba"
+            }
+         ],
+         "caracteristicas":[  
+            {  
+               "id_caracteristica":"6",
+               "descricao":"Garantia de f\u00e1brica"
+            }
+         ],
+         "fotos":[  
+            {  
+               "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/seminovos\/veiculo_04_5d4b6a8f78389.jpg"
+            }
+         ]
+      },
+      {  
+         "marca":"JEEP",
+         "modelo":"Renegade Longitude",
+         "tipo":"Carro",
+         "loja":"Lua4 Mega Carros",
+         "cor":"Azul",
+         "cambio":"Autom\u00e1tico",
+         "combustivel":"Diesel",
+         "id_veiculo":"10",
+         "video_url":null,
+         "ano_fabricacao":"2019",
+         "ano_modelo":"2020",
+         "versao":"2.0 4X4 Tb Diesel Aut",
+         "portas":"4",
+         "placa":"",
+         "quilometragem":null,
+         "potencia":null,
+         "preco_site":"136890",
+         "preco_site_promocao":"0",
+         "preco_classificados":"136890",
+         "blindado":"0",
+         "zero_km":"1",
+         "vendido":"0",
+         "vendido_destaque":"0",
+         "status":"1",
+         "observacao":"",
+         "fotos_atualizadas":"0",
+         "itens":[  
+            {  
+               "id_item":"59",
+               "descricao":"Air bag Motorista"
+            },
+            {  
+               "id_item":"60",
+               "descricao":"Air bag lateral"
+            },
+            {  
+               "id_item":"61",
+               "descricao":"Air bag passageiro"
+            },
+            {  
+               "id_item":"2",
+               "descricao":"Alarme"
+            },
+            {  
+               "id_item":"4",
+               "descricao":"Ar quente"
+            },
+            {  
+               "id_item":"3",
+               "descricao":"Ar condicionado"
+            },
+            {  
+               "id_item":"54",
+               "descricao":"Ar condicionado digital"
+            },
+            {  
+               "id_item":"66",
+               "descricao":"Banco com regulagem de altura"
+            },
+            {  
+               "id_item":"11",
+               "descricao":"Computador de bordo"
+            },
+            {  
+               "id_item":"12",
+               "descricao":"Controle autom\u00e1tico de velocidade"
+            },
+            {  
+               "id_item":"13",
+               "descricao":"Controle de tra\u00e7\u00e3o"
+            },
+            {  
+               "id_item":"44",
+               "descricao":"C\u00e2mera de r\u00e9"
+            },
+            {  
+               "id_item":"62",
+               "descricao":"Desemba\u00e7ador de vidro traseiro"
+            },
+            {  
+               "id_item":"15",
+               "descricao":"Dire\u00e7\u00e3o El\u00e9trica"
+            },
+            {  
+               "id_item":"19",
+               "descricao":"Encosto de cabe\u00e7a traseiro"
+            },
+            {  
+               "id_item":"64",
+               "descricao":"Freios ABS"
+            },
+            {  
+               "id_item":"23",
+               "descricao":"GPS"
+            },
+            {  
+               "id_item":"65",
+               "descricao":"Limpador traseiro"
+            },
+            {  
+               "id_item":"29",
+               "descricao":"Retrovisores el\u00e9tricos"
+            },
+            {  
+               "id_item":"30",
+               "descricao":"Rodas de liga leve"
+            },
+            {  
+               "id_item":"26",
+               "descricao":"R\u00e1dio"
+            },
+            {  
+               "id_item":"32",
+               "descricao":"Sensor de estacionamento"
+            },
+            {  
+               "id_item":"35",
+               "descricao":"Travas el\u00e9tricas"
+            },
+            {  
+               "id_item":"34",
+               "descricao":"Tra\u00e7\u00e3o 4x4"
+            },
+            {  
+               "id_item":"37",
+               "descricao":"Vidros el\u00e9tricos"
+            },
+            {  
+               "id_item":"38",
+               "descricao":"Volante com regulagem de altura"
+            }
+         ],
+         "caracteristicas":[  
+            {  
+               "id_caracteristica":"6",
+               "descricao":"Garantia de f\u00e1brica"
+            }
+         ],
+         "fotos":[  
+            {  
+               "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/seminovos\/veiculo_10_5d4b6af90265a.jpg"
+            }
+         ]
+      },
+      {  
+         "marca":"VOLKSWAGEN",
+         "modelo":"Passat Highline",
+         "tipo":"Carro",
+         "loja":"Lua4 Mega Carros",
+         "cor":"Branco",
+         "cambio":"Autom\u00e1tico",
+         "combustivel":"Flex",
+         "id_veiculo":"6",
+         "id_loja":"1",
+         "id_tipo":"1",
+         "id_marca":"164",
+         "id_modelo":"1738",
+         "id_versao":"11291",
+         "id_cor":"4",
+         "video_url":null,
+         "ano_fabricacao":"2017",
+         "ano_modelo":"2017",
+         "versao":"2.0 TSI 220cv Tip.",
+         "id_combustivel":"3",
+         "id_cambio":"1",
+         "portas":"4",
+         "placa":"PDG-4920",
+         "quilometragem":"6670",
+         "potencia":null,
+         "preco_site":"149890",
+         "preco_site_promocao":"0",
+         "preco_classificados":"149890",
+         "blindado":"0",
+         "zero_km":"0",
+         "vendido":"0",
+         "vendido_destaque":"0",
+         "status":"1",
+         "observacao":"",
+         "fotos_atualizadas":"0",
+         "itens":[  
+            {  
+               "id_item":"59",
+               "descricao":"Air bag Motorista"
+            },
+            {  
+               "id_item":"60",
+               "descricao":"Air bag lateral"
+            },
+            {  
+               "id_item":"61",
+               "descricao":"Air bag passageiro"
+            },
+            {  
+               "id_item":"2",
+               "descricao":"Alarme"
+            },
+            {  
+               "id_item":"4",
+               "descricao":"Ar quente"
+            },
+            {  
+               "id_item":"3",
+               "descricao":"Ar condicionado"
+            },
+            {  
+               "id_item":"54",
+               "descricao":"Ar condicionado digital"
+            },
+            {  
+               "id_item":"66",
+               "descricao":"Banco com regulagem de altura"
+            },
+            {  
+               "id_item":"7",
+               "descricao":"Bancos em couro"
+            },
+            {  
+               "id_item":"11",
+               "descricao":"Computador de bordo"
+            },
+            {  
+               "id_item":"12",
+               "descricao":"Controle autom\u00e1tico de velocidade"
+            },
+            {  
+               "id_item":"13",
+               "descricao":"Controle de tra\u00e7\u00e3o"
+            },
+            {  
+               "id_item":"62",
+               "descricao":"Desemba\u00e7ador de vidro traseiro"
+            },
+            {  
+               "id_item":"15",
+               "descricao":"Dire\u00e7\u00e3o El\u00e9trica"
+            },
+            {  
+               "id_item":"19",
+               "descricao":"Encosto de cabe\u00e7a traseiro"
+            },
+            {  
+               "id_item":"64",
+               "descricao":"Freios ABS"
+            },
+            {  
+               "id_item":"29",
+               "descricao":"Retrovisores el\u00e9tricos"
+            },
+            {  
+               "id_item":"30",
+               "descricao":"Rodas de liga leve"
+            },
+            {  
+               "id_item":"26",
+               "descricao":"R\u00e1dio"
+            },
+            {  
+               "id_item":"32",
+               "descricao":"Sensor de estacionamento"
+            },
+            {  
+               "id_item":"35",
+               "descricao":"Travas el\u00e9tricas"
+            },
+            {  
+               "id_item":"37",
+               "descricao":"Vidros el\u00e9tricos"
+            },
+            {  
+               "id_item":"38",
+               "descricao":"Volante com regulagem de altura"
+            }
+         ],
+         "caracteristicas":[  
+
+         ],
+         "fotos":[  
+            {  
+               "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/seminovos\/veiculo_06_5d4b6aaf51b26.jpg"
+            }
+         ]
+      },
+      {  
+         "marca":"FIAT",
+         "modelo":"Toro Ranch",
+         "tipo":"Carro",
+         "loja":"Lua4 Mega Carros",
+         "cor":"Cinza",
+         "cambio":"Autom\u00e1tico",
+         "combustivel":"Diesel",
+         "id_veiculo":"3",
+         "id_loja":"1",
+         "id_tipo":"1",
+         "id_marca":"57",
+         "id_modelo":"1736",
+         "id_versao":"11288",
+         "id_cor":"6",
+         "video_url":null,
+         "ano_fabricacao":"2018",
+         "ano_modelo":"2019",
+         "versao":"2.0 16V 4x4 Diesel Aut.",
+         "id_combustivel":"2",
+         "id_cambio":"1",
+         "portas":"4",
+         "placa":"PDS-8180",
+         "quilometragem":"7545",
+         "potencia":null,
+         "preco_site":"142890",
+         "preco_site_promocao":"0",
+         "preco_classificados":"142890",
+         "blindado":"0",
+         "zero_km":"0",
+         "vendido":"0",
+         "vendido_destaque":"0",
+         "status":"1",
+         "observacao":"",
+         "fotos_atualizadas":"0",
+         "itens":[  
+            {  
+               "id_item":"59",
+               "descricao":"Air bag Motorista"
+            },
+            {  
+               "id_item":"60",
+               "descricao":"Air bag lateral"
+            },
+            {  
+               "id_item":"61",
+               "descricao":"Air bag passageiro"
+            },
+            {  
+               "id_item":"2",
+               "descricao":"Alarme"
+            },
+            {  
+               "id_item":"4",
+               "descricao":"Ar quente"
+            },
+            {  
+               "id_item":"3",
+               "descricao":"Ar condicionado"
+            },
+            {  
+               "id_item":"54",
+               "descricao":"Ar condicionado digital"
+            },
+            {  
+               "id_item":"66",
+               "descricao":"Banco com regulagem de altura"
+            },
+            {  
+               "id_item":"7",
+               "descricao":"Bancos em couro"
+            },
+            {  
+               "id_item":"11",
+               "descricao":"Computador de bordo"
+            },
+            {  
+               "id_item":"12",
+               "descricao":"Controle autom\u00e1tico de velocidade"
+            },
+            {  
+               "id_item":"13",
+               "descricao":"Controle de tra\u00e7\u00e3o"
+            },
+            {  
+               "id_item":"44",
+               "descricao":"C\u00e2mera de r\u00e9"
+            },
+            {  
+               "id_item":"62",
+               "descricao":"Desemba\u00e7ador de vidro traseiro"
+            },
+            {  
+               "id_item":"15",
+               "descricao":"Dire\u00e7\u00e3o El\u00e9trica"
+            },
+            {  
+               "id_item":"19",
+               "descricao":"Encosto de cabe\u00e7a traseiro"
+            },
+            {  
+               "id_item":"64",
+               "descricao":"Freios ABS"
+            },
+            {  
+               "id_item":"29",
+               "descricao":"Retrovisores el\u00e9tricos"
+            },
+            {  
+               "id_item":"30",
+               "descricao":"Rodas de liga leve"
+            },
+            {  
+               "id_item":"26",
+               "descricao":"R\u00e1dio"
+            },
+            {  
+               "id_item":"32",
+               "descricao":"Sensor de estacionamento"
+            },
+            {  
+               "id_item":"35",
+               "descricao":"Travas el\u00e9tricas"
+            },
+            {  
+               "id_item":"34",
+               "descricao":"Tra\u00e7\u00e3o 4x4"
+            },
+            {  
+               "id_item":"37",
+               "descricao":"Vidros el\u00e9tricos"
+            },
+            {  
+               "id_item":"38",
+               "descricao":"Volante com regulagem de altura"
+            }
+         ],
+         "caracteristicas":[  
+
+         ],
+         "fotos":[  
+            {  
+               "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/seminovos\/veiculo_03_5d4b6a8e05f4a.jpg"
+            }
+         ]
+      },
+      {  
+         "marca":"CITRO\u00cbN",
+         "modelo":"AIRCROSS Live",
+         "tipo":"Carro",
+         "loja":"Lua4 Mega Carros",
+         "cor":"Prata",
+         "cambio":"Autom\u00e1tico",
+         "combustivel":"Flex",
+         "id_veiculo":"1",
+         "id_loja":"1",
+         "id_tipo":"1",
+         "id_marca":"33",
+         "id_modelo":"1734",
+         "id_versao":"11286",
+         "id_cor":"11",
+         "video_url":null,
+         "ano_fabricacao":"2018",
+         "ano_modelo":"2018",
+         "versao":"1.6 Flex 16V 5p Mec.",
+         "id_combustivel":"3",
+         "id_cambio":"1",
+         "portas":"4",
+         "placa":"PEA-1973",
+         "quilometragem":"49010",
+         "potencia":null,
+         "preco_site":"52890",
+         "preco_site_promocao":"0",
+         "preco_classificados":"52890",
+         "blindado":"0",
+         "zero_km":"0",
+         "vendido":"0",
+         "vendido_destaque":"0",
+         "status":"1",
+         "observacao":"",
+         "fotos_atualizadas":"0",
+         "itens":[  
+            {  
+               "id_item":"59",
+               "descricao":"Air bag Motorista"
+            },
+            {  
+               "id_item":"60",
+               "descricao":"Air bag lateral"
+            },
+            {  
+               "id_item":"61",
+               "descricao":"Air bag passageiro"
+            },
+            {  
+               "id_item":"2",
+               "descricao":"Alarme"
+            },
+            {  
+               "id_item":"4",
+               "descricao":"Ar quente"
+            },
+            {  
+               "id_item":"3",
+               "descricao":"Ar condicionado"
+            },
+            {  
+               "id_item":"66",
+               "descricao":"Banco com regulagem de altura"
+            },
+            {  
+               "id_item":"7",
+               "descricao":"Bancos em couro"
+            },
+            {  
+               "id_item":"11",
+               "descricao":"Computador de bordo"
+            },
+            {  
+               "id_item":"12",
+               "descricao":"Controle autom\u00e1tico de velocidade"
+            },
+            {  
+               "id_item":"62",
+               "descricao":"Desemba\u00e7ador de vidro traseiro"
+            },
+            {  
+               "id_item":"15",
+               "descricao":"Dire\u00e7\u00e3o El\u00e9trica"
+            },
+            {  
+               "id_item":"16",
+               "descricao":"Dire\u00e7\u00e3o hidr\u00e1ulica"
+            },
+            {  
+               "id_item":"19",
+               "descricao":"Encosto de cabe\u00e7a traseiro"
+            },
+            {  
+               "id_item":"64",
+               "descricao":"Freios ABS"
+            },
+            {  
+               "id_item":"65",
+               "descricao":"Limpador traseiro"
+            },
+            {  
+               "id_item":"29",
+               "descricao":"Retrovisores el\u00e9tricos"
+            },
+            {  
+               "id_item":"30",
+               "descricao":"Rodas de liga leve"
+            },
+            {  
+               "id_item":"26",
+               "descricao":"R\u00e1dio"
+            },
+            {  
+               "id_item":"35",
+               "descricao":"Travas el\u00e9tricas"
+            },
+            {  
+               "id_item":"37",
+               "descricao":"Vidros el\u00e9tricos"
+            },
+            {  
+               "id_item":"38",
+               "descricao":"Volante com regulagem de altura"
+            }
+         ],
+         "caracteristicas":[  
+
+         ],
+         "fotos":[  
+            {  
+               "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/seminovos\/veiculo_01_5d4b6a6a04caf.jpg"
+            }
+         ]
+      },
+      {  
+         "marca":"BMW",
+         "modelo":"320Ia Gt Sport",
+         "tipo":"Carro",
+         "loja":"Lua4 Mega Carros",
+         "cor":"Azul",
+         "cambio":"Autom\u00e1tico",
+         "combustivel":"Gasolina",
+         "id_veiculo":"8",
+         "id_loja":"1",
+         "id_tipo":"1",
+         "id_marca":"15",
+         "id_modelo":"1740",
+         "id_versao":"11293",
+         "id_cor":"2",
+         "video_url":null,
+         "ano_fabricacao":"2014",
+         "ano_modelo":"2015",
+         "versao":"2.0 Turbo 16V 184Cv 5P",
+         "id_combustivel":"4",
+         "id_cambio":"1",
+         "portas":"4",
+         "placa":"OYM-2309",
+         "quilometragem":"70545",
+         "potencia":null,
+         "preco_site":"108890",
+         "preco_site_promocao":"0",
+         "preco_classificados":"108890",
+         "blindado":"0",
+         "zero_km":"0",
+         "vendido":"0",
+         "vendido_destaque":"0",
+         "status":"1",
+         "observacao":"",
+         "fotos_atualizadas":"0",
+         "itens":[  
+            {  
+               "id_item":"59",
+               "descricao":"Air bag Motorista"
+            },
+            {  
+               "id_item":"60",
+               "descricao":"Air bag lateral"
+            },
+            {  
+               "id_item":"61",
+               "descricao":"Air bag passageiro"
+            },
+            {  
+               "id_item":"2",
+               "descricao":"Alarme"
+            },
+            {  
+               "id_item":"4",
+               "descricao":"Ar quente"
+            },
+            {  
+               "id_item":"3",
+               "descricao":"Ar condicionado"
+            },
+            {  
+               "id_item":"66",
+               "descricao":"Banco com regulagem de altura"
+            },
+            {  
+               "id_item":"7",
+               "descricao":"Bancos em couro"
+            },
+            {  
+               "id_item":"11",
+               "descricao":"Computador de bordo"
+            },
+            {  
+               "id_item":"12",
+               "descricao":"Controle autom\u00e1tico de velocidade"
+            },
+            {  
+               "id_item":"13",
+               "descricao":"Controle de tra\u00e7\u00e3o"
+            },
+            {  
+               "id_item":"62",
+               "descricao":"Desemba\u00e7ador de vidro traseiro"
+            },
+            {  
+               "id_item":"16",
+               "descricao":"Dire\u00e7\u00e3o hidr\u00e1ulica"
+            },
+            {  
+               "id_item":"19",
+               "descricao":"Encosto de cabe\u00e7a traseiro"
+            },
+            {  
+               "id_item":"64",
+               "descricao":"Freios ABS"
+            },
+            {  
+               "id_item":"29",
+               "descricao":"Retrovisores el\u00e9tricos"
+            },
+            {  
+               "id_item":"30",
+               "descricao":"Rodas de liga leve"
+            },
+            {  
+               "id_item":"26",
+               "descricao":"R\u00e1dio"
+            },
+            {  
+               "id_item":"32",
+               "descricao":"Sensor de estacionamento"
+            },
+            {  
+               "id_item":"33",
+               "descricao":"Teto solar"
+            },
+            {  
+               "id_item":"35",
+               "descricao":"Travas el\u00e9tricas"
+            },
+            {  
+               "id_item":"37",
+               "descricao":"Vidros el\u00e9tricos"
+            },
+            {  
+               "id_item":"38",
+               "descricao":"Volante com regulagem de altura"
+            }
+         ],
+         "caracteristicas":[  
+
+         ],
+         "fotos":[  
+            {  
+               "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/seminovos\/veiculo_08_5d4b6ad9e6351.jpg"
+            },
+            {  
+               "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/seminovos\/veiculo_08_5d4b6adb5d46e.jpg"
+            }
+         ]
+      },
+      {  
+         "marca":"FORD",
+         "modelo":"EcoSport SE",
+         "tipo":"Carro",
+         "loja":"Lua4 Mega Carros",
+         "cor":"Prata",
+         "cambio":"Autom\u00e1tico",
+         "combustivel":"Flex",
+         "id_veiculo":"2",
+         "id_loja":"1",
+         "id_tipo":"1",
+         "id_marca":"61",
+         "id_modelo":"1735",
+         "id_versao":"11287",
+         "id_cor":"11",
+         "video_url":null,
+         "ano_fabricacao":"2014",
+         "ano_modelo":"2015",
+         "versao":"2.0 16V Flex 5P Aut.",
+         "id_combustivel":"3",
+         "id_cambio":"1",
+         "portas":"4",
+         "placa":"OYW-4330",
+         "quilometragem":"36925",
+         "potencia":null,
+         "preco_site":"52890",
+         "preco_site_promocao":"0",
+         "preco_classificados":"52890",
+         "blindado":"0",
+         "zero_km":"0",
+         "vendido":"0",
+         "vendido_destaque":"0",
+         "status":"1",
+         "observacao":"",
+         "fotos_atualizadas":"0",
+         "itens":[  
+            {  
+               "id_item":"59",
+               "descricao":"Air bag Motorista"
+            },
+            {  
+               "id_item":"60",
+               "descricao":"Air bag lateral"
+            },
+            {  
+               "id_item":"61",
+               "descricao":"Air bag passageiro"
+            },
+            {  
+               "id_item":"2",
+               "descricao":"Alarme"
+            },
+            {  
+               "id_item":"4",
+               "descricao":"Ar quente"
+            },
+            {  
+               "id_item":"3",
+               "descricao":"Ar condicionado"
+            },
+            {  
+               "id_item":"66",
+               "descricao":"Banco com regulagem de altura"
+            },
+            {  
+               "id_item":"7",
+               "descricao":"Bancos em couro"
+            },
+            {  
+               "id_item":"11",
+               "descricao":"Computador de bordo"
+            },
+            {  
+               "id_item":"12",
+               "descricao":"Controle autom\u00e1tico de velocidade"
+            },
+            {  
+               "id_item":"13",
+               "descricao":"Controle de tra\u00e7\u00e3o"
+            },
+            {  
+               "id_item":"62",
+               "descricao":"Desemba\u00e7ador de vidro traseiro"
+            },
+            {  
+               "id_item":"16",
+               "descricao":"Dire\u00e7\u00e3o hidr\u00e1ulica"
+            },
+            {  
+               "id_item":"19",
+               "descricao":"Encosto de cabe\u00e7a traseiro"
+            },
+            {  
+               "id_item":"64",
+               "descricao":"Freios ABS"
+            },
+            {  
+               "id_item":"65",
+               "descricao":"Limpador traseiro"
+            },
+            {  
+               "id_item":"29",
+               "descricao":"Retrovisores el\u00e9tricos"
+            },
+            {  
+               "id_item":"26",
+               "descricao":"R\u00e1dio"
+            },
+            {  
+               "id_item":"32",
+               "descricao":"Sensor de estacionamento"
+            },
+            {  
+               "id_item":"35",
+               "descricao":"Travas el\u00e9tricas"
+            },
+            {  
+               "id_item":"37",
+               "descricao":"Vidros el\u00e9tricos"
+            },
+            {  
+               "id_item":"38",
+               "descricao":"Volante com regulagem de altura"
+            }
+         ],
+         "caracteristicas":[  
+
+         ],
+         "fotos":[  
+            {  
+               "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/seminovos\/veiculo_02_5d4b6a7c93c23.jpg"
+            }
+         ]
+      },
+      {  
+         "marca":"KIA",
+         "modelo":"SORENTO",
+         "tipo":"Carro",
+         "loja":"Lua4 Mega Carros",
+         "cor":"Cinza",
+         "cambio":"Autom\u00e1tico",
+         "combustivel":"Gasolina",
+         "id_veiculo":"9",
+         "id_loja":"1",
+         "id_tipo":"1",
+         "id_marca":"88",
+         "id_modelo":"316",
+         "id_versao":"11124",
+         "id_cor":"6",
+         "video_url":null,
+         "ano_fabricacao":"2012",
+         "ano_modelo":"2013",
+         "versao":" 3.5 V6 24V 278cv 4x4 Aut.",
+         "id_combustivel":"4",
+         "id_cambio":"1",
+         "portas":"4",
+         "placa":"PFF-3915",
+         "quilometragem":"68845",
+         "potencia":null,
+         "preco_site":"68890",
+         "preco_site_promocao":"0",
+         "preco_classificados":"68890",
+         "blindado":"0",
+         "zero_km":"0",
+         "vendido":"0",
+         "vendido_destaque":"0",
+         "status":"1",
+         "observacao":"",
+         "fotos_atualizadas":"0",
+         "itens":[  
+            {  
+               "id_item":"59",
+               "descricao":"Air bag Motorista"
+            },
+            {  
+               "id_item":"60",
+               "descricao":"Air bag lateral"
+            },
+            {  
+               "id_item":"61",
+               "descricao":"Air bag passageiro"
+            },
+            {  
+               "id_item":"2",
+               "descricao":"Alarme"
+            },
+            {  
+               "id_item":"4",
+               "descricao":"Ar quente"
+            },
+            {  
+               "id_item":"3",
+               "descricao":"Ar condicionado"
+            },
+            {  
+               "id_item":"54",
+               "descricao":"Ar condicionado digital"
+            },
+            {  
+               "id_item":"66",
+               "descricao":"Banco com regulagem de altura"
+            },
+            {  
+               "id_item":"7",
+               "descricao":"Bancos em couro"
+            },
+            {  
+               "id_item":"11",
+               "descricao":"Computador de bordo"
+            },
+            {  
+               "id_item":"12",
+               "descricao":"Controle autom\u00e1tico de velocidade"
+            },
+            {  
+               "id_item":"13",
+               "descricao":"Controle de tra\u00e7\u00e3o"
+            },
+            {  
+               "id_item":"62",
+               "descricao":"Desemba\u00e7ador de vidro traseiro"
+            },
+            {  
+               "id_item":"15",
+               "descricao":"Dire\u00e7\u00e3o El\u00e9trica"
+            },
+            {  
+               "id_item":"16",
+               "descricao":"Dire\u00e7\u00e3o hidr\u00e1ulica"
+            },
+            {  
+               "id_item":"19",
+               "descricao":"Encosto de cabe\u00e7a traseiro"
+            },
+            {  
+               "id_item":"64",
+               "descricao":"Freios ABS"
+            },
+            {  
+               "id_item":"65",
+               "descricao":"Limpador traseiro"
+            },
+            {  
+               "id_item":"29",
+               "descricao":"Retrovisores el\u00e9tricos"
+            },
+            {  
+               "id_item":"30",
+               "descricao":"Rodas de liga leve"
+            },
+            {  
+               "id_item":"26",
+               "descricao":"R\u00e1dio"
+            },
+            {  
+               "id_item":"32",
+               "descricao":"Sensor de estacionamento"
+            },
+            {  
+               "id_item":"33",
+               "descricao":"Teto solar"
+            },
+            {  
+               "id_item":"35",
+               "descricao":"Travas el\u00e9tricas"
+            },
+            {  
+               "id_item":"34",
+               "descricao":"Tra\u00e7\u00e3o 4x4"
+            },
+            {  
+               "id_item":"37",
+               "descricao":"Vidros el\u00e9tricos"
+            },
+            {  
+               "id_item":"38",
+               "descricao":"Volante com regulagem de altura"
+            }
+         ],
+         "caracteristicas":[  
+
+         ],
+         "fotos":[  
+            {  
+               "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/seminovos\/veiculo_09_5d4b6ae7eff74.jpg"
+            }
+         ]
+      },
+      {  
+         "marca":"CHEVROLET",
+         "modelo":"CRUZE LT",
+         "tipo":"Carro",
+         "loja":"Lua4 Mega Carros",
+         "cor":"Prata",
+         "cambio":"Manual",
+         "combustivel":"Flex",
+         "id_veiculo":"5",
+         "id_loja":"1",
+         "id_tipo":"1",
+         "id_marca":"31",
+         "id_modelo":"1680",
+         "id_versao":"11290",
+         "id_cor":"11",
+         "video_url":null,
+         "ano_fabricacao":"2015",
+         "ano_modelo":"2015",
+         "versao":"1.8 16V Flexpower 4P Mec.",
+         "id_combustivel":"3",
+         "id_cambio":"2",
+         "portas":"4",
+         "placa":"PEB-4380",
+         "quilometragem":"78340",
+         "potencia":null,
+         "preco_site":"52890",
+         "preco_site_promocao":"0",
+         "preco_classificados":"52890",
+         "blindado":"0",
+         "zero_km":"0",
+         "vendido":"0",
+         "vendido_destaque":"0",
+         "status":"1",
+         "observacao":"",
+         "fotos_atualizadas":"0",
+         "itens":[  
+            {  
+               "id_item":"59",
+               "descricao":"Air bag Motorista"
+            },
+            {  
+               "id_item":"61",
+               "descricao":"Air bag passageiro"
+            },
+            {  
+               "id_item":"2",
+               "descricao":"Alarme"
+            },
+            {  
+               "id_item":"4",
+               "descricao":"Ar quente"
+            },
+            {  
+               "id_item":"3",
+               "descricao":"Ar condicionado"
+            },
+            {  
+               "id_item":"66",
+               "descricao":"Banco com regulagem de altura"
+            },
+            {  
+               "id_item":"11",
+               "descricao":"Computador de bordo"
+            },
+            {  
+               "id_item":"62",
+               "descricao":"Desemba\u00e7ador de vidro traseiro"
+            },
+            {  
+               "id_item":"16",
+               "descricao":"Dire\u00e7\u00e3o hidr\u00e1ulica"
+            },
+            {  
+               "id_item":"19",
+               "descricao":"Encosto de cabe\u00e7a traseiro"
+            },
+            {  
+               "id_item":"64",
+               "descricao":"Freios ABS"
+            },
+            {  
+               "id_item":"29",
+               "descricao":"Retrovisores el\u00e9tricos"
+            },
+            {  
+               "id_item":"30",
+               "descricao":"Rodas de liga leve"
+            },
+            {  
+               "id_item":"26",
+               "descricao":"R\u00e1dio"
+            },
+            {  
+               "id_item":"35",
+               "descricao":"Travas el\u00e9tricas"
+            },
+            {  
+               "id_item":"37",
+               "descricao":"Vidros el\u00e9tricos"
+            },
+            {  
+               "id_item":"38",
+               "descricao":"Volante com regulagem de altura"
+            }
+         ],
+         "caracteristicas":[  
+
+         ],
+         "fotos":[  
+            {  
+               "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/seminovos\/veiculo_05_5d4b6a9dea01e.jpg"
+            }
+         ]
+      },
+      {  
+         "marca":"NISSAN",
+         "modelo":"Frontier S Cd 4X2",
+         "tipo":"Carro",
+         "loja":"Lua4 Mega Carros",
+         "cor":"Preto",
+         "cambio":"Manual",
+         "combustivel":"Diesel",
+         "id_veiculo":"7",
+         "id_loja":"1",
+         "id_tipo":"1",
+         "id_marca":"120",
+         "id_modelo":"1739",
+         "id_versao":"11292",
+         "id_cor":"12",
+         "video_url":null,
+         "ano_fabricacao":"2013",
+         "ano_modelo":"2014",
+         "versao":"2.5 Tb Diesel",
+         "id_combustivel":"2",
+         "id_cambio":"2",
+         "portas":"4",
+         "placa":"OYY-7503",
+         "quilometragem":"88500",
+         "potencia":null,
+         "preco_site":"78890",
+         "preco_site_promocao":"0",
+         "preco_classificados":"78890",
+         "blindado":"0",
+         "zero_km":"0",
+         "vendido":"0",
+         "vendido_destaque":"0",
+         "status":"1",
+         "observacao":"",
+         "fotos_atualizadas":"0",
+         "itens":[  
+            {  
+               "id_item":"59",
+               "descricao":"Air bag Motorista"
+            },
+            {  
+               "id_item":"61",
+               "descricao":"Air bag passageiro"
+            },
+            {  
+               "id_item":"2",
+               "descricao":"Alarme"
+            },
+            {  
+               "id_item":"4",
+               "descricao":"Ar quente"
+            },
+            {  
+               "id_item":"3",
+               "descricao":"Ar condicionado"
+            },
+            {  
+               "id_item":"66",
+               "descricao":"Banco com regulagem de altura"
+            },
+            {  
+               "id_item":"7",
+               "descricao":"Bancos em couro"
+            },
+            {  
+               "id_item":"8",
+               "descricao":"Capota mar\u00edtima"
+            },
+            {  
+               "id_item":"62",
+               "descricao":"Desemba\u00e7ador de vidro traseiro"
+            },
+            {  
+               "id_item":"15",
+               "descricao":"Dire\u00e7\u00e3o El\u00e9trica"
+            },
+            {  
+               "id_item":"16",
+               "descricao":"Dire\u00e7\u00e3o hidr\u00e1ulica"
+            },
+            {  
+               "id_item":"19",
+               "descricao":"Encosto de cabe\u00e7a traseiro"
+            },
+            {  
+               "id_item":"64",
+               "descricao":"Freios ABS"
+            },
+            {  
+               "id_item":"25",
+               "descricao":"Protetor de ca\u00e7amba"
+            },
+            {  
+               "id_item":"29",
+               "descricao":"Retrovisores el\u00e9tricos"
+            },
+            {  
+               "id_item":"30",
+               "descricao":"Rodas de liga leve"
+            },
+            {  
+               "id_item":"26",
+               "descricao":"R\u00e1dio"
+            },
+            {  
+               "id_item":"32",
+               "descricao":"Sensor de estacionamento"
+            },
+            {  
+               "id_item":"35",
+               "descricao":"Travas el\u00e9tricas"
+            },
+            {  
+               "id_item":"37",
+               "descricao":"Vidros el\u00e9tricos"
+            },
+            {  
+               "id_item":"38",
+               "descricao":"Volante com regulagem de altura"
+            }
+         ],
+         "caracteristicas":[  
+
+         ],
+         "fotos":[  
+            {  
+               "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/seminovos\/veiculo_07_5d4b6abf6cd9e.jpg"
+            },
+            {  
+               "arquivo":"\/template-tarefa\/lua4auto\/public\/uploads\/seminovos\/veiculo_07_5d4b6ac0e227a.jpg"
+            }
+         ]
+      }
+   ]
+}

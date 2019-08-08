@@ -1,0 +1,27 @@
+{
+  "name": "lua4-multimarcas-template-plus",
+  "version": "1.0.0",
+  "description": "Template Plus Lua4Multimarcas",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lua4 - Diogo",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:lua4/_improved-boilerplate.git"
+  },
+  "keywords": [
+    "css",
+    "html"
+  ]
+}
